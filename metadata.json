@@ -1,0 +1,6 @@
+{
+  "name": "Bright Real Estate Services",
+  "description": "Premium real estate consultancy in Jaipur specializing in verified residential villas, JDA approved plots, commercial hubs, and property legal advisory across prime corridors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
